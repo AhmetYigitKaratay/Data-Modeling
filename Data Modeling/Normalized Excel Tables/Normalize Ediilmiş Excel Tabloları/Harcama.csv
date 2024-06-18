@@ -1,0 +1,993 @@
+﻿harcama_id;harcama_miktari;harcama_tarihi;harcama_tutari;banka;harcama_tipi;kart_tipi
+1;430.79;3.01.2023;389.32;Bank A;Transfer;Mastercard
+2;435.27;8.06.2023;138.38;Bank B;Alisveris;Mastercard
+3;399.77;27.08.2023;169.35;Bank A;Fatura Odemesi;American Express
+4;284.89;12.07.2023;196.62;Bank A;Fatura Odemesi;Mastercard
+5;100.5;8.04.2023;245.79;Bank C;Fatura Odemesi;American Express
+6;207.23;8.03.2023;445.66;Bank A;Fatura Odemesi;Visa
+7;138.06;27.06.2023;493.76;Bank B;Transfer;Mastercard
+8;119.59;11.02.2023;369.76;Bank B;Fatura Odemesi;American Express
+9;389.86;3.12.2023;337.59;Bank B;Fatura Odemesi;Visa
+10;341.34;9.12.2023;107.36;Bank A;Transfer;Mastercard
+11;26.49;17.11.2023;413.72;Bank C;Fatura Odemesi;Visa
+12;300.87;22.05.2023;190;Bank B;Transfer;American Express
+13;481.07;19.07.2023;198.35;Bank A;Fatura Odemesi;American Express
+14;31.05;25.04.2023;60.07;Bank B;Transfer;Visa
+15;58.53;28.09.2023;301.5;Bank C;Fatura Odemesi;Mastercard
+16;338.91;25.04.2023;119.52;Bank A;Fatura Odemesi;American Express
+17;483.12;17.06.2023;447.1;Bank C;Transfer;American Express
+18;43.83;16.06.2023;459.38;Bank B;Transfer;American Express
+19;19.96;2.08.2023;84.68;Bank A;Alisveris;Visa
+20;323.7;8.02.2023;82.01;Bank B;Alisveris;Visa
+21;129.73;12.02.2023;382.53;Bank B;Transfer;Mastercard
+22;238.25;24.04.2023;234.57;Bank A;Fatura Odemesi;American Express
+23;290.61;23.03.2023;21.84;Bank B;Alisveris;American Express
+24;298.76;31.01.2023;460.06;Bank A;Fatura Odemesi;American Express
+25;78.14;29.10.2023;365.98;Bank B;Transfer;Visa
+26;74.5;8.01.2023;262.16;Bank C;Fatura Odemesi;Mastercard
+27;200.96;20.05.2023;43.14;Bank A;Transfer;American Express
+28;451.28;25.08.2023;103.42;Bank B;Fatura Odemesi;American Express
+29;251.97;27.07.2023;82.23;Bank A;Alisveris;Mastercard
+30;16.18;28.03.2023;393.38;Bank C;Transfer;American Express
+31;264.15;28.03.2023;396.05;Bank B;Fatura Odemesi;Visa
+32;488.01;13.10.2023;424.23;Bank C;Transfer;Visa
+33;215.89;5.09.2023;196.95;Bank B;Transfer;Mastercard
+34;260.15;16.05.2023;198.47;Bank B;Transfer;Visa
+35;236.93;19.11.2023;351.78;Bank A;Transfer;American Express
+36;473.44;28.07.2023;361.12;Bank B;Fatura Odemesi;American Express
+37;290.06;21.02.2023;402.3;Bank A;Alisveris;Mastercard
+38;302.88;9.08.2023;344.73;Bank C;Transfer;Mastercard
+39;427.39;26.06.2023;300.63;Bank A;Alisveris;American Express
+40;86.49;4.11.2023;289.59;Bank B;Transfer;American Express
+41;326.22;20.04.2023;244.6;Bank B;Alisveris;American Express
+42;160.8;10.08.2023;396.4;Bank A;Transfer;American Express
+43;459.29;6.01.2023;430.27;Bank A;Fatura Odemesi;Mastercard
+44;449.35;21.01.2023;350;Bank C;Alisveris;Mastercard
+45;47.03;25.02.2023;72.26;Bank B;Transfer;American Express
+46;56.84;14.08.2023;232.6;Bank C;Fatura Odemesi;American Express
+47;465.72;31.05.2023;310.13;Bank C;Transfer;Mastercard
+48;21.12;11.10.2023;130.63;Bank C;Transfer;Visa
+49;242.38;2.08.2023;57.92;Bank A;Alisveris;Mastercard
+50;305.59;22.07.2023;150.08;Bank C;Fatura Odemesi;Visa
+51;143.14;8.07.2023;342.83;Bank A;Transfer;Visa
+52;129.54;19.03.2023;112.59;Bank B;Fatura Odemesi;Mastercard
+53;311.56;27.06.2023;206.81;Bank C;Transfer;Mastercard
+54;338.54;18.01.2023;346.83;Bank C;Alisveris;Mastercard
+55;164.21;27.01.2023;278.96;Bank B;Transfer;American Express
+56;442.01;8.10.2023;283.07;Bank C;Transfer;Mastercard
+57;282.03;20.11.2023;21.34;Bank B;Fatura Odemesi;American Express
+58;210.69;24.01.2023;313.65;Bank A;Fatura Odemesi;Visa
+59;466.83;21.08.2023;96.38;Bank A;Fatura Odemesi;Mastercard
+60;193.5;2.04.2023;22.09;Bank A;Alisveris;Mastercard
+61;427.29;9.01.2023;337.47;Bank A;Transfer;American Express
+62;107.35;20.01.2023;80.86;Bank A;Alisveris;American Express
+63;431.25;29.03.2023;484.67;Bank B;Fatura Odemesi;Mastercard
+64;52.02;11.04.2023;163.22;Bank B;Fatura Odemesi;American Express
+65;146.74;19.09.2023;464.6;Bank A;Alisveris;American Express
+66;85.72;8.06.2023;251.26;Bank A;Transfer;American Express
+67;185.19;18.07.2023;36.86;Bank C;Transfer;Visa
+68;27.44;24.09.2023;46.05;Bank A;Alisveris;American Express
+69;477.08;15.08.2023;354.43;Bank B;Fatura Odemesi;Mastercard
+70;329.73;29.06.2023;40.01;Bank C;Transfer;Mastercard
+71;122.11;7.10.2023;210.93;Bank B;Alisveris;Mastercard
+72;324.85;12.02.2023;445.32;Bank A;Fatura Odemesi;Mastercard
+73;197.03;25.04.2023;68.56;Bank C;Alisveris;Visa
+74;189.52;12.03.2023;196.47;Bank B;Fatura Odemesi;Visa
+75;111.27;10.01.2023;73.69;Bank B;Alisveris;Visa
+76;355.69;20.09.2023;471.87;Bank B;Alisveris;Visa
+77;466.6;9.02.2023;301.59;Bank C;Transfer;American Express
+78;465.1;25.11.2023;374.77;Bank A;Transfer;Visa
+79;114.3;3.01.2023;387.53;Bank C;Alisveris;Visa
+80;477.06;3.06.2023;262.36;Bank A;Alisveris;Visa
+81;201.25;1.10.2023;75.79;Bank A;Alisveris;Visa
+82;362.61;4.07.2023;392.41;Bank A;Fatura Odemesi;American Express
+83;53.25;10.02.2023;465.98;Bank A;Transfer;American Express
+84;79.75;29.05.2023;149.75;Bank A;Transfer;Visa
+85;332.35;14.03.2023;187.98;Bank B;Transfer;Mastercard
+86;242.99;7.02.2023;14.02;Bank B;Transfer;Visa
+87;456.45;30.09.2023;297.64;Bank B;Alisveris;Mastercard
+88;496.84;5.12.2023;24.75;Bank B;Transfer;American Express
+89;350.66;12.08.2023;423.44;Bank C;Transfer;Visa
+90;192.29;20.08.2023;106.53;Bank B;Alisveris;Mastercard
+91;165.71;18.01.2023;59.28;Bank B;Transfer;Mastercard
+92;275.48;10.05.2023;380.29;Bank C;Fatura Odemesi;Mastercard
+93;169.96;18.10.2023;58.37;Bank A;Transfer;American Express
+94;271.22;15.02.2023;469.35;Bank A;Fatura Odemesi;Mastercard
+95;23.76;23.07.2023;173.12;Bank A;Transfer;American Express
+96;200.3;15.10.2023;374.51;Bank C;Transfer;American Express
+97;165.98;11.05.2023;194.55;Bank A;Transfer;Visa
+98;96.84;14.05.2023;422.69;Bank B;Transfer;Mastercard
+99;488.19;18.01.2023;102.81;Bank B;Fatura Odemesi;Visa
+100;42.76;4.02.2023;192.67;Bank A;Fatura Odemesi;Mastercard
+101;347.46;13.01.2023;47.28;Bank A;Alisveris;Mastercard
+102;438.92;25.09.2023;453.24;Bank C;Fatura Odemesi;American Express
+103;133.89;5.08.2023;110.4;Bank B;Transfer;American Express
+104;487.83;10.08.2023;156.31;Bank B;Fatura Odemesi;Mastercard
+105;116.18;5.02.2023;36.99;Bank A;Fatura Odemesi;Mastercard
+106;35.49;9.10.2023;452.52;Bank B;Fatura Odemesi;American Express
+107;461.42;7.10.2023;349.38;Bank B;Transfer;Mastercard
+108;249.29;23.11.2023;78.01;Bank A;Fatura Odemesi;Mastercard
+109;278.14;26.06.2023;240.92;Bank C;Transfer;Visa
+110;217.04;7.12.2023;289.45;Bank B;Alisveris;Visa
+111;55.46;7.06.2023;322.63;Bank A;Transfer;American Express
+112;240.42;5.02.2023;148.61;Bank B;Transfer;Visa
+113;296.85;26.09.2023;258.91;Bank C;Fatura Odemesi;Visa
+114;253.47;19.04.2023;20.25;Bank A;Fatura Odemesi;Mastercard
+115;291.89;16.05.2023;392.89;Bank A;Alisveris;American Express
+116;46.29;2.05.2023;200.11;Bank A;Fatura Odemesi;Visa
+117;404.32;21.06.2023;456.91;Bank A;Alisveris;Visa
+118;109.47;12.11.2023;86.61;Bank C;Fatura Odemesi;American Express
+119;456.51;4.07.2023;67.82;Bank A;Transfer;Visa
+120;416.81;2.08.2023;464.45;Bank B;Alisveris;American Express
+121;46.27;26.09.2023;326.19;Bank A;Fatura Odemesi;American Express
+122;492.85;11.03.2023;211.65;Bank B;Fatura Odemesi;Mastercard
+123;368.01;6.06.2023;212.56;Bank C;Transfer;Mastercard
+124;205.76;28.07.2023;25.89;Bank C;Transfer;American Express
+125;428.84;24.10.2023;407.37;Bank C;Fatura Odemesi;Visa
+126;222.01;3.08.2023;305.35;Bank C;Transfer;Visa
+127;257.07;10.04.2023;206.07;Bank C;Alisveris;Mastercard
+128;331.6;22.07.2023;432.32;Bank A;Fatura Odemesi;Visa
+129;31.41;23.07.2023;78.98;Bank A;Transfer;Mastercard
+130;442.18;24.04.2023;123.46;Bank A;Fatura Odemesi;Mastercard
+131;384.96;4.11.2023;39.18;Bank B;Alisveris;American Express
+132;292.6;13.09.2023;77.29;Bank B;Alisveris;Mastercard
+133;235.95;24.04.2023;362.23;Bank A;Transfer;Visa
+134;237.17;7.05.2023;222.31;Bank B;Transfer;Visa
+135;148.38;14.10.2023;126.03;Bank A;Fatura Odemesi;Mastercard
+136;301.82;27.04.2023;207.48;Bank B;Transfer;Mastercard
+137;26.16;30.01.2023;383.62;Bank B;Fatura Odemesi;Visa
+138;123.36;15.04.2023;70.14;Bank A;Alisveris;American Express
+139;115.38;28.02.2023;450.25;Bank C;Fatura Odemesi;American Express
+140;30.92;19.05.2023;225.75;Bank B;Alisveris;Visa
+141;205.18;20.05.2023;129.92;Bank B;Fatura Odemesi;Visa
+142;117.09;1.10.2023;484.73;Bank A;Fatura Odemesi;Mastercard
+143;332.54;25.04.2023;85.59;Bank C;Fatura Odemesi;Visa
+144;110.65;30.03.2023;277.93;Bank A;Alisveris;Visa
+145;237.32;9.08.2023;215.72;Bank B;Transfer;American Express
+146;293.68;1.09.2023;372.47;Bank C;Fatura Odemesi;Mastercard
+147;449.83;14.04.2023;43.82;Bank A;Alisveris;Visa
+148;287.98;11.10.2023;397.96;Bank B;Alisveris;Visa
+149;478.7;29.09.2023;453.68;Bank B;Alisveris;Mastercard
+150;369.71;22.09.2023;206.91;Bank C;Transfer;American Express
+151;236.8;7.09.2023;111.98;Bank A;Transfer;American Express
+152;391.74;23.01.2023;86.91;Bank B;Transfer;Visa
+153;327.77;8.08.2023;492.24;Bank C;Fatura Odemesi;Visa
+154;281.88;6.04.2023;103.67;Bank C;Fatura Odemesi;Mastercard
+155;290.86;26.01.2023;169.2;Bank A;Fatura Odemesi;Visa
+156;177.06;17.02.2023;42.21;Bank B;Alisveris;Mastercard
+157;238.53;12.03.2023;122.83;Bank A;Fatura Odemesi;American Express
+158;377.3;1.08.2023;265.41;Bank B;Fatura Odemesi;Mastercard
+159;217.14;28.04.2023;248.96;Bank C;Transfer;Visa
+160;224.41;13.01.2023;17.19;Bank C;Alisveris;Mastercard
+161;138.96;1.03.2023;67.57;Bank C;Transfer;Visa
+162;47.8;21.09.2023;15.69;Bank B;Fatura Odemesi;American Express
+163;483.81;23.07.2023;469.91;Bank C;Fatura Odemesi;Visa
+164;355.47;25.03.2023;268.13;Bank C;Alisveris;Mastercard
+165;226.52;8.07.2023;59.34;Bank A;Alisveris;Mastercard
+166;420.01;14.05.2023;298.82;Bank A;Alisveris;Visa
+167;484.55;17.05.2023;164.79;Bank B;Alisveris;American Express
+168;84.8;3.11.2023;486.15;Bank C;Transfer;Visa
+169;384.78;13.09.2023;363.8;Bank C;Alisveris;Mastercard
+170;31.33;3.10.2023;278.92;Bank A;Transfer;Visa
+171;213.95;27.11.2023;425.6;Bank C;Alisveris;Mastercard
+172;138.27;6.06.2023;69.54;Bank A;Transfer;American Express
+173;318.48;16.08.2023;133.72;Bank C;Alisveris;American Express
+174;119.68;11.05.2023;320.51;Bank B;Transfer;Visa
+175;177.89;16.12.2023;75.29;Bank A;Transfer;American Express
+176;389.83;3.07.2023;399.06;Bank B;Transfer;American Express
+177;169.98;16.05.2023;440.96;Bank B;Fatura Odemesi;Visa
+178;384.09;17.02.2023;197.23;Bank C;Alisveris;Visa
+179;402.66;30.03.2023;279.26;Bank A;Transfer;Mastercard
+180;436.34;3.07.2023;391.36;Bank A;Fatura Odemesi;Mastercard
+181;487.06;10.05.2023;401.94;Bank A;Transfer;Visa
+182;182.29;5.12.2023;167.53;Bank B;Alisveris;Mastercard
+183;424.59;3.11.2023;322.04;Bank B;Transfer;Mastercard
+184;441.62;21.07.2023;491.39;Bank A;Alisveris;American Express
+185;426.16;25.07.2023;496.48;Bank B;Fatura Odemesi;American Express
+186;238.36;16.05.2023;64.03;Bank B;Alisveris;Mastercard
+187;92.38;30.11.2023;97.9;Bank C;Transfer;American Express
+188;293.05;20.11.2023;417.9;Bank A;Fatura Odemesi;Mastercard
+189;333.68;23.07.2023;418.21;Bank B;Fatura Odemesi;Visa
+190;439.93;19.11.2023;104.75;Bank B;Alisveris;American Express
+191;52.24;23.02.2023;494.02;Bank A;Alisveris;Mastercard
+192;229.86;30.04.2023;78.34;Bank A;Transfer;American Express
+193;279.93;30.11.2023;407.49;Bank C;Transfer;Mastercard
+194;433.11;22.11.2023;230.11;Bank A;Fatura Odemesi;Mastercard
+195;317.22;16.04.2023;342.38;Bank C;Transfer;American Express
+196;282.13;20.11.2023;80.55;Bank C;Fatura Odemesi;American Express
+197;152.8;27.08.2023;405.3;Bank B;Transfer;American Express
+198;323.18;20.11.2023;46.24;Bank C;Fatura Odemesi;American Express
+199;19.14;24.01.2023;165.76;Bank C;Transfer;Visa
+200;398.49;2.09.2023;21.16;Bank A;Alisveris;Mastercard
+201;157.9;6.10.2023;15.71;Bank C;Alisveris;Mastercard
+202;495.61;3.02.2023;349.12;Bank B;Alisveris;Visa
+203;217.62;1.04.2023;182.03;Bank B;Transfer;American Express
+204;410.89;15.11.2023;374.28;Bank B;Fatura Odemesi;American Express
+205;352.29;8.11.2023;305.58;Bank B;Alisveris;American Express
+206;269.71;24.06.2023;90.35;Bank A;Transfer;American Express
+207;104.32;16.07.2023;226.1;Bank C;Transfer;Visa
+208;357.83;22.06.2023;425.83;Bank B;Transfer;American Express
+209;418.99;21.04.2023;128.43;Bank B;Fatura Odemesi;Visa
+210;169.03;30.01.2023;157.43;Bank B;Transfer;Visa
+211;146.48;8.01.2023;423.51;Bank C;Fatura Odemesi;American Express
+212;446.24;25.04.2023;202.21;Bank B;Transfer;American Express
+213;349.27;16.11.2023;145.27;Bank C;Alisveris;Visa
+214;261.73;5.08.2023;240.9;Bank A;Transfer;Visa
+215;27.12;26.03.2023;312.13;Bank B;Transfer;Visa
+216;456.18;16.01.2023;449.22;Bank A;Alisveris;American Express
+217;108.23;18.11.2023;78.62;Bank A;Alisveris;Mastercard
+218;91.58;13.07.2023;98.07;Bank C;Fatura Odemesi;Visa
+219;296.55;12.02.2023;37.56;Bank B;Alisveris;Mastercard
+220;83.44;12.07.2023;335.04;Bank B;Transfer;American Express
+221;38.51;7.11.2023;288.21;Bank B;Alisveris;Visa
+222;444.64;18.03.2023;260.27;Bank B;Alisveris;American Express
+223;40.17;16.05.2023;161.21;Bank B;Transfer;American Express
+224;441.06;20.01.2023;28.13;Bank B;Fatura Odemesi;Mastercard
+225;140.28;26.06.2023;467.06;Bank A;Transfer;Mastercard
+226;116.95;23.11.2023;379.06;Bank C;Fatura Odemesi;American Express
+227;36.38;29.11.2023;331.6;Bank B;Alisveris;American Express
+228;246.87;6.02.2023;182.75;Bank A;Fatura Odemesi;Visa
+229;357.05;3.03.2023;234.77;Bank C;Fatura Odemesi;American Express
+230;112.76;4.06.2023;104.64;Bank C;Transfer;Visa
+231;411.44;4.06.2023;222.75;Bank C;Fatura Odemesi;American Express
+232;323.18;16.08.2023;323.86;Bank A;Alisveris;American Express
+233;237.38;11.10.2023;211.43;Bank A;Fatura Odemesi;American Express
+234;405.94;28.11.2023;97.28;Bank C;Fatura Odemesi;Visa
+235;420.68;6.03.2023;351.15;Bank A;Transfer;Mastercard
+236;481.07;1.04.2023;75.41;Bank B;Fatura Odemesi;Mastercard
+237;293.83;13.07.2023;438.29;Bank B;Transfer;Visa
+238;310.19;1.05.2023;322.06;Bank C;Fatura Odemesi;Mastercard
+239;98.38;12.06.2023;137.12;Bank A;Alisveris;American Express
+240;361.93;4.05.2023;10.34;Bank C;Transfer;Mastercard
+241;483.29;15.10.2023;488.39;Bank A;Alisveris;American Express
+242;305.61;2.11.2023;68;Bank C;Fatura Odemesi;Mastercard
+243;70.17;18.10.2023;118.33;Bank C;Alisveris;American Express
+244;236.79;28.08.2023;298.68;Bank B;Alisveris;Mastercard
+245;413.43;11.09.2023;351.39;Bank A;Transfer;Visa
+246;120.5;29.10.2023;301.58;Bank B;Fatura Odemesi;Mastercard
+247;429.77;25.05.2023;336.51;Bank A;Fatura Odemesi;Visa
+248;195.22;23.01.2023;396.27;Bank B;Fatura Odemesi;Mastercard
+249;197.27;5.05.2023;164.91;Bank A;Alisveris;Visa
+250;162.34;4.02.2023;364.56;Bank B;Alisveris;American Express
+251;399.94;26.06.2023;190.18;Bank A;Fatura Odemesi;Mastercard
+252;57.46;2.01.2023;53.61;Bank B;Alisveris;Visa
+253;152.67;29.01.2023;291.33;Bank A;Fatura Odemesi;American Express
+254;498.21;7.12.2023;469.54;Bank C;Fatura Odemesi;American Express
+255;209.26;12.08.2023;256.02;Bank B;Alisveris;Mastercard
+256;139.74;26.08.2023;201.16;Bank A;Fatura Odemesi;Mastercard
+257;247.59;30.01.2023;369.04;Bank C;Alisveris;Visa
+258;72.73;3.07.2023;126.41;Bank A;Alisveris;Visa
+259;234.11;13.03.2023;63.54;Bank A;Alisveris;Mastercard
+260;230.92;12.05.2023;33.91;Bank A;Fatura Odemesi;Visa
+261;231.77;27.10.2023;484.6;Bank C;Alisveris;Visa
+262;487.79;26.01.2023;410.6;Bank B;Fatura Odemesi;Visa
+263;333.64;7.10.2023;262.2;Bank C;Fatura Odemesi;Visa
+264;222.77;6.01.2023;167.16;Bank A;Fatura Odemesi;Mastercard
+265;483.06;15.04.2023;387.13;Bank A;Transfer;Mastercard
+266;357.53;19.10.2023;417.97;Bank C;Transfer;Mastercard
+267;337.03;7.10.2023;175.54;Bank B;Alisveris;American Express
+268;78.31;23.03.2023;90.45;Bank A;Fatura Odemesi;Visa
+269;232.58;9.06.2023;371.4;Bank C;Transfer;American Express
+270;268.23;3.07.2023;94.49;Bank C;Fatura Odemesi;American Express
+271;112.09;21.03.2023;402.79;Bank B;Fatura Odemesi;American Express
+272;470.76;2.12.2023;458.73;Bank C;Transfer;Visa
+273;430.53;25.07.2023;73.09;Bank B;Transfer;Visa
+274;189.75;3.12.2023;143.1;Bank C;Alisveris;Visa
+275;299.11;15.07.2023;16.98;Bank C;Transfer;Mastercard
+276;468.92;28.08.2023;426.91;Bank A;Alisveris;Mastercard
+277;89.38;18.05.2023;74.12;Bank B;Alisveris;Visa
+278;162.45;25.08.2023;69.73;Bank A;Alisveris;Mastercard
+279;489.3;29.05.2023;114.22;Bank A;Fatura Odemesi;American Express
+280;313.95;7.07.2023;185.77;Bank B;Transfer;Visa
+281;202.36;6.06.2023;111.39;Bank C;Fatura Odemesi;Mastercard
+282;97.11;29.04.2023;201.34;Bank B;Transfer;Mastercard
+283;150.78;29.04.2023;302.88;Bank A;Fatura Odemesi;Visa
+284;120.06;20.10.2023;347.94;Bank A;Alisveris;American Express
+285;39.95;27.01.2023;424.68;Bank A;Transfer;American Express
+286;322.91;16.06.2023;396.55;Bank A;Alisveris;Mastercard
+287;196.21;30.10.2023;92.62;Bank A;Transfer;Visa
+288;491.04;7.11.2023;194.75;Bank C;Transfer;American Express
+289;139.4;6.03.2023;487.67;Bank B;Fatura Odemesi;American Express
+290;478.04;17.07.2023;446.19;Bank A;Alisveris;American Express
+291;416.89;9.10.2023;463.3;Bank C;Transfer;Mastercard
+292;409.25;4.06.2023;177.26;Bank B;Fatura Odemesi;Visa
+293;151.47;15.05.2023;295.87;Bank A;Fatura Odemesi;Mastercard
+294;28.85;5.03.2023;164.21;Bank C;Alisveris;American Express
+295;93.46;27.07.2023;268.22;Bank A;Fatura Odemesi;Visa
+296;492.67;10.11.2023;386.21;Bank A;Transfer;Mastercard
+297;59.52;22.09.2023;148.51;Bank C;Transfer;Visa
+298;220.84;5.11.2023;19.11;Bank C;Fatura Odemesi;Visa
+299;101.05;8.06.2023;113.9;Bank B;Fatura Odemesi;Visa
+300;377.97;9.05.2023;125.76;Bank B;Fatura Odemesi;Mastercard
+301;471.9;28.05.2023;446.38;Bank A;Alisveris;Mastercard
+302;131.22;18.05.2023;306.65;Bank C;Alisveris;American Express
+303;383.96;24.05.2023;453.89;Bank C;Fatura Odemesi;Visa
+304;121.01;13.08.2023;144.17;Bank C;Alisveris;Visa
+305;442.33;12.05.2023;67.93;Bank C;Fatura Odemesi;Mastercard
+306;270.6;15.11.2023;269.94;Bank A;Fatura Odemesi;Visa
+307;453.21;11.10.2023;229.91;Bank C;Transfer;Visa
+308;15.24;5.01.2023;123.36;Bank C;Alisveris;American Express
+309;253.69;7.01.2023;273.04;Bank C;Transfer;Visa
+310;170.51;27.09.2023;345.93;Bank B;Alisveris;Visa
+311;266.41;30.07.2023;449.03;Bank A;Alisveris;American Express
+312;68.42;22.08.2023;160.51;Bank B;Transfer;Mastercard
+313;272.99;6.08.2023;196.01;Bank A;Fatura Odemesi;American Express
+314;196.84;19.05.2023;449.18;Bank B;Transfer;Visa
+315;395.92;17.04.2023;107.23;Bank C;Fatura Odemesi;Mastercard
+316;279.78;29.04.2023;92.96;Bank B;Alisveris;Mastercard
+317;353.42;14.01.2023;282.53;Bank B;Transfer;Visa
+318;245.75;22.01.2023;67.08;Bank C;Alisveris;American Express
+319;164.26;5.04.2023;126.02;Bank A;Fatura Odemesi;Mastercard
+320;466.09;25.06.2023;486.96;Bank B;Fatura Odemesi;American Express
+321;422.87;22.04.2023;71.96;Bank C;Fatura Odemesi;Mastercard
+322;442.54;13.09.2023;122.94;Bank B;Alisveris;Visa
+323;353.54;9.01.2023;53.06;Bank C;Fatura Odemesi;Mastercard
+324;292.23;10.07.2023;190.72;Bank B;Fatura Odemesi;American Express
+325;272.47;15.03.2023;209.79;Bank C;Transfer;Mastercard
+326;126.94;4.02.2023;438.73;Bank B;Transfer;American Express
+327;499.89;3.11.2023;107.09;Bank A;Alisveris;Visa
+328;373.49;24.04.2023;443.21;Bank A;Fatura Odemesi;American Express
+329;346.96;3.11.2023;334.97;Bank B;Fatura Odemesi;Visa
+330;318.06;9.05.2023;112.98;Bank C;Fatura Odemesi;Mastercard
+331;138.19;3.12.2023;24.23;Bank C;Transfer;Visa
+332;228.26;2.11.2023;204.02;Bank A;Alisveris;Mastercard
+333;128.18;6.03.2023;160.33;Bank A;Alisveris;American Express
+334;218.34;2.06.2023;123.45;Bank A;Transfer;Mastercard
+335;129.7;19.05.2023;14.93;Bank C;Fatura Odemesi;Visa
+336;90.44;12.08.2023;247.31;Bank B;Transfer;Mastercard
+337;140.87;20.08.2023;418.26;Bank B;Alisveris;American Express
+338;286.24;7.02.2023;182.38;Bank B;Transfer;American Express
+339;101.55;19.05.2023;194.89;Bank A;Transfer;American Express
+340;45.68;28.07.2023;171.62;Bank A;Alisveris;Visa
+341;95.46;1.11.2023;189.83;Bank B;Fatura Odemesi;American Express
+342;285.06;13.09.2023;368.81;Bank B;Fatura Odemesi;American Express
+343;135.88;11.05.2023;461.99;Bank B;Transfer;Visa
+344;336.68;19.11.2023;11.77;Bank A;Fatura Odemesi;Visa
+345;92.53;12.04.2023;359.95;Bank C;Alisveris;Mastercard
+346;295.11;4.07.2023;52.39;Bank B;Transfer;Visa
+347;59.73;13.05.2023;66.6;Bank A;Fatura Odemesi;American Express
+348;119.67;16.05.2023;230.52;Bank B;Transfer;Visa
+349;209.03;20.03.2023;181.47;Bank B;Alisveris;Visa
+350;15.33;4.11.2023;392.87;Bank C;Fatura Odemesi;Mastercard
+351;459.76;11.04.2023;401.87;Bank A;Transfer;Visa
+352;266.33;25.08.2023;37.8;Bank B;Transfer;American Express
+353;154.95;29.01.2023;408.64;Bank A;Alisveris;American Express
+354;296.65;19.05.2023;408.75;Bank C;Alisveris;American Express
+355;194.74;27.08.2023;134.76;Bank B;Fatura Odemesi;American Express
+356;91.96;15.05.2023;48.05;Bank C;Fatura Odemesi;American Express
+357;364.43;28.11.2023;116.5;Bank C;Transfer;Visa
+358;454.56;11.10.2023;332.6;Bank B;Transfer;Visa
+359;171.47;4.01.2023;296.8;Bank B;Transfer;American Express
+360;229.36;11.03.2023;201.56;Bank A;Fatura Odemesi;American Express
+361;261.73;21.09.2023;406.27;Bank A;Alisveris;Visa
+362;323.17;20.04.2023;102.24;Bank A;Fatura Odemesi;American Express
+363;179.46;17.06.2023;260.13;Bank C;Transfer;Visa
+364;462.83;25.02.2023;166.78;Bank B;Transfer;Visa
+365;307.75;17.10.2023;243.28;Bank B;Alisveris;Visa
+366;284.28;30.05.2023;59.57;Bank C;Transfer;Visa
+367;478.95;19.07.2023;252.8;Bank C;Fatura Odemesi;Visa
+368;184.26;11.11.2023;79.72;Bank C;Fatura Odemesi;Mastercard
+369;208.11;21.07.2023;18.66;Bank B;Transfer;Mastercard
+370;303.23;5.10.2023;336.59;Bank B;Alisveris;Visa
+371;488.57;12.01.2023;379.4;Bank C;Alisveris;Mastercard
+372;392.97;8.06.2023;156.05;Bank C;Alisveris;Mastercard
+373;325.76;24.08.2023;248.42;Bank C;Transfer;American Express
+374;146.67;13.07.2023;189.79;Bank C;Transfer;Mastercard
+375;396.43;28.09.2023;59.95;Bank A;Alisveris;American Express
+376;218.17;28.11.2023;159.68;Bank A;Fatura Odemesi;Mastercard
+377;363.59;18.07.2023;433.45;Bank C;Alisveris;American Express
+378;233.54;28.01.2023;94.46;Bank C;Fatura Odemesi;American Express
+379;320.27;29.08.2023;347.67;Bank B;Transfer;Visa
+380;265.78;15.11.2023;285;Bank A;Transfer;American Express
+381;280.72;28.09.2023;361.42;Bank A;Transfer;American Express
+382;314.32;26.10.2023;37.15;Bank B;Transfer;Visa
+383;243.22;5.01.2023;368.18;Bank B;Fatura Odemesi;Visa
+384;379.16;23.09.2023;181.45;Bank C;Fatura Odemesi;Mastercard
+385;193.46;16.09.2023;161.55;Bank C;Fatura Odemesi;Visa
+386;277.26;12.09.2023;220.12;Bank C;Fatura Odemesi;Visa
+387;452.51;14.03.2023;149.78;Bank C;Alisveris;Mastercard
+388;38.24;9.01.2023;319.04;Bank B;Alisveris;Mastercard
+389;279.2;26.06.2023;432.09;Bank A;Fatura Odemesi;Visa
+390;24.49;12.04.2023;370.76;Bank C;Transfer;American Express
+391;207.59;18.07.2023;208.49;Bank B;Fatura Odemesi;Visa
+392;336.51;11.09.2023;347.88;Bank A;Alisveris;Mastercard
+393;103.11;28.01.2023;29.09;Bank C;Alisveris;Mastercard
+394;167.89;7.08.2023;180.79;Bank C;Fatura Odemesi;American Express
+395;220.86;27.03.2023;446.64;Bank B;Transfer;Visa
+396;497.63;25.01.2023;131.9;Bank B;Transfer;American Express
+397;144.97;14.10.2023;408.35;Bank B;Fatura Odemesi;Visa
+398;11.98;9.02.2023;38.19;Bank A;Fatura Odemesi;American Express
+399;354.81;1.07.2023;429.43;Bank B;Alisveris;American Express
+400;480.32;26.04.2023;110.08;Bank A;Fatura Odemesi;American Express
+401;275.49;7.12.2023;433.66;Bank A;Transfer;American Express
+402;202.59;20.03.2023;125.97;Bank C;Fatura Odemesi;Visa
+403;447.29;11.03.2023;173.5;Bank B;Fatura Odemesi;Visa
+404;376.85;9.03.2023;202.49;Bank B;Transfer;American Express
+405;381.59;18.07.2023;421.63;Bank A;Fatura Odemesi;Visa
+406;273.39;20.04.2023;443.12;Bank B;Transfer;Mastercard
+407;110.5;22.03.2023;317.44;Bank A;Alisveris;Mastercard
+408;75.64;17.11.2023;58.23;Bank A;Fatura Odemesi;Visa
+409;325.01;15.05.2023;231.45;Bank B;Fatura Odemesi;Visa
+410;144.68;8.03.2023;442.62;Bank C;Alisveris;American Express
+411;257.07;6.10.2023;16.17;Bank A;Fatura Odemesi;American Express
+412;437.22;6.02.2023;498.34;Bank B;Fatura Odemesi;American Express
+413;124.17;29.10.2023;354.07;Bank A;Fatura Odemesi;Mastercard
+414;322.2;12.03.2023;177.29;Bank A;Fatura Odemesi;Visa
+415;218.88;12.02.2023;377.23;Bank B;Transfer;Visa
+416;158.54;2.03.2023;92.14;Bank A;Alisveris;American Express
+417;156.74;21.10.2023;132.45;Bank B;Transfer;American Express
+418;406.29;19.09.2023;290.08;Bank A;Transfer;Visa
+419;366;31.05.2023;296.99;Bank C;Alisveris;Mastercard
+420;460.37;15.12.2023;223.31;Bank C;Fatura Odemesi;Mastercard
+421;330.61;16.12.2023;149;Bank B;Alisveris;Mastercard
+422;481.35;6.02.2023;163.01;Bank A;Transfer;Mastercard
+423;18.12;9.01.2023;193.31;Bank A;Transfer;Visa
+424;467.43;7.05.2023;82.07;Bank C;Transfer;Mastercard
+425;347.27;16.03.2023;213.21;Bank C;Alisveris;American Express
+426;22.43;17.09.2023;426.56;Bank B;Fatura Odemesi;American Express
+427;194.65;7.11.2023;229.69;Bank C;Alisveris;Mastercard
+428;189.02;3.11.2023;141.31;Bank A;Alisveris;American Express
+429;118.62;8.11.2023;310.71;Bank A;Transfer;Mastercard
+430;307.96;16.10.2023;344.91;Bank B;Transfer;Mastercard
+431;484.68;22.07.2023;340.11;Bank C;Alisveris;Visa
+432;103.37;19.08.2023;411.8;Bank C;Transfer;Visa
+433;270.53;14.02.2023;58.36;Bank B;Transfer;Mastercard
+434;273.93;2.07.2023;221.55;Bank C;Alisveris;American Express
+435;141.47;16.12.2023;295.76;Bank A;Transfer;American Express
+436;12.96;1.05.2023;242.39;Bank C;Fatura Odemesi;Visa
+437;492.62;25.08.2023;90.19;Bank C;Fatura Odemesi;Mastercard
+438;82.41;31.05.2023;207.35;Bank B;Alisveris;Visa
+439;405.6;27.01.2023;359.94;Bank C;Fatura Odemesi;Mastercard
+440;306.66;3.01.2023;211.31;Bank B;Fatura Odemesi;American Express
+441;463.31;30.09.2023;354.33;Bank B;Fatura Odemesi;American Express
+442;15.58;13.08.2023;364.57;Bank A;Transfer;Mastercard
+443;442.55;16.09.2023;388.37;Bank A;Alisveris;Mastercard
+444;208.95;11.02.2023;244.14;Bank C;Transfer;American Express
+445;405.48;18.08.2023;98.96;Bank C;Transfer;Mastercard
+446;172.8;23.09.2023;228.91;Bank C;Fatura Odemesi;American Express
+447;452.39;7.11.2023;277.25;Bank C;Fatura Odemesi;Visa
+448;483.23;29.04.2023;322.69;Bank B;Alisveris;Visa
+449;409.93;11.07.2023;335.05;Bank C;Transfer;American Express
+450;375.57;14.03.2023;20.91;Bank C;Transfer;Mastercard
+451;168.57;7.09.2023;264.71;Bank B;Transfer;American Express
+452;351.23;11.05.2023;219.13;Bank B;Transfer;Visa
+453;179.22;10.12.2023;393.78;Bank C;Fatura Odemesi;Visa
+454;349.74;24.11.2023;291.83;Bank C;Fatura Odemesi;Mastercard
+455;174.31;24.10.2023;337.26;Bank C;Transfer;American Express
+456;262.65;24.05.2023;62.54;Bank B;Transfer;Mastercard
+457;348.08;5.10.2023;182.43;Bank C;Alisveris;Mastercard
+458;466.38;16.09.2023;44.98;Bank A;Transfer;American Express
+459;118.99;9.02.2023;191.59;Bank B;Alisveris;American Express
+460;68.75;26.02.2023;122.99;Bank C;Fatura Odemesi;Visa
+461;402.14;15.06.2023;444.61;Bank C;Fatura Odemesi;Mastercard
+462;78.73;14.11.2023;438.73;Bank B;Transfer;Visa
+463;199.8;22.07.2023;436.87;Bank A;Fatura Odemesi;Visa
+464;326.47;21.10.2023;436.45;Bank B;Alisveris;Mastercard
+465;416.4;1.06.2023;390.99;Bank B;Fatura Odemesi;American Express
+466;357.35;6.05.2023;429.27;Bank B;Fatura Odemesi;Mastercard
+467;275.31;6.05.2023;264.3;Bank B;Fatura Odemesi;Mastercard
+468;132.48;28.10.2023;164.02;Bank C;Fatura Odemesi;Visa
+469;123.1;17.01.2023;54.66;Bank B;Alisveris;Visa
+470;219.3;29.01.2023;51.58;Bank A;Transfer;American Express
+471;241.08;1.04.2023;441.74;Bank C;Alisveris;Visa
+472;144.97;8.07.2023;463.7;Bank B;Transfer;Visa
+473;392.15;20.01.2023;51.31;Bank A;Transfer;Visa
+474;496.59;29.07.2023;125.69;Bank B;Alisveris;Visa
+475;257.46;11.06.2023;160.3;Bank C;Transfer;Mastercard
+476;132.44;23.07.2023;319.48;Bank B;Transfer;Mastercard
+477;26.16;20.11.2023;261.03;Bank C;Fatura Odemesi;American Express
+478;499.26;21.08.2023;454.71;Bank A;Alisveris;American Express
+479;283.01;15.03.2023;79.81;Bank B;Fatura Odemesi;Mastercard
+480;431.22;6.03.2023;332.64;Bank B;Alisveris;American Express
+481;226.39;17.04.2023;361.5;Bank A;Transfer;Mastercard
+482;132.56;20.11.2023;80.8;Bank C;Transfer;Mastercard
+483;477.98;6.01.2023;305.25;Bank C;Alisveris;Visa
+484;40.91;24.09.2023;48.63;Bank A;Alisveris;Visa
+485;28.74;30.09.2023;74.47;Bank B;Alisveris;American Express
+486;345.77;15.08.2023;215.32;Bank B;Transfer;Mastercard
+487;175.43;22.03.2023;194.6;Bank B;Transfer;Visa
+488;385.53;12.10.2023;94.7;Bank B;Transfer;Visa
+489;402.59;22.09.2023;123.1;Bank B;Transfer;Mastercard
+490;94.89;15.11.2023;322.62;Bank B;Alisveris;American Express
+491;134.2;25.08.2023;419.03;Bank B;Transfer;American Express
+492;341.15;29.07.2023;206.13;Bank C;Fatura Odemesi;American Express
+493;357.23;22.05.2023;171.4;Bank C;Transfer;American Express
+494;467.37;6.03.2023;143.5;Bank C;Transfer;American Express
+495;469.75;16.06.2023;438.27;Bank C;Alisveris;Visa
+496;390.44;9.07.2023;135.93;Bank A;Transfer;American Express
+497;221.87;7.04.2023;171.68;Bank B;Transfer;Mastercard
+498;487.21;4.12.2023;32.2;Bank C;Transfer;Visa
+499;399.08;17.03.2023;273.25;Bank C;Transfer;American Express
+500;169.61;25.04.2023;68.98;Bank A;Alisveris;American Express
+501;92.23;28.01.2023;474.6;Bank B;Fatura Odemesi;American Express
+502;485.22;19.02.2023;458.89;Bank B;Transfer;American Express
+503;89.04;28.06.2023;407.84;Bank A;Transfer;American Express
+504;253.37;17.10.2023;339.91;Bank C;Alisveris;American Express
+505;484.85;26.05.2023;85.16;Bank B;Alisveris;Mastercard
+506;123.26;7.03.2023;128.61;Bank B;Alisveris;Mastercard
+507;452.22;7.06.2023;396.96;Bank B;Alisveris;Mastercard
+508;331.74;25.07.2023;254.68;Bank C;Alisveris;Mastercard
+509;213.03;26.05.2023;33.48;Bank B;Fatura Odemesi;Mastercard
+510;297.21;18.11.2023;96.59;Bank A;Transfer;Visa
+511;65.31;21.04.2023;213.4;Bank C;Alisveris;American Express
+512;216.35;23.04.2023;55.01;Bank B;Alisveris;Visa
+513;404.67;12.10.2023;60.75;Bank A;Fatura Odemesi;American Express
+514;305.89;7.01.2023;31.91;Bank C;Alisveris;Mastercard
+515;123.6;29.05.2023;150.98;Bank B;Alisveris;Visa
+516;396.71;11.11.2023;26.22;Bank C;Alisveris;Visa
+517;273.48;12.01.2023;323.59;Bank B;Fatura Odemesi;American Express
+518;242.52;1.11.2023;158.51;Bank B;Transfer;Visa
+519;220.19;24.11.2023;255.67;Bank B;Fatura Odemesi;American Express
+520;279.33;19.11.2023;439.66;Bank B;Transfer;Mastercard
+521;17.86;5.05.2023;42.21;Bank B;Alisveris;American Express
+522;259.44;28.05.2023;173.46;Bank A;Alisveris;American Express
+523;321.03;19.01.2023;252.19;Bank C;Transfer;Mastercard
+524;80.81;15.11.2023;397.44;Bank B;Fatura Odemesi;American Express
+525;363.36;19.07.2023;379.85;Bank C;Alisveris;American Express
+526;342.6;8.06.2023;394.36;Bank B;Fatura Odemesi;Mastercard
+527;140.44;13.03.2023;283;Bank B;Fatura Odemesi;Visa
+528;307.53;23.07.2023;284.65;Bank B;Fatura Odemesi;American Express
+529;219.28;28.03.2023;467.28;Bank B;Alisveris;Visa
+530;82.88;13.05.2023;352.19;Bank A;Alisveris;American Express
+531;119.25;20.08.2023;86.68;Bank B;Alisveris;American Express
+532;414.72;26.08.2023;460.74;Bank C;Alisveris;Mastercard
+533;267.62;7.12.2023;181.01;Bank B;Alisveris;American Express
+534;212.8;10.02.2023;289.98;Bank C;Alisveris;Mastercard
+535;82.32;19.11.2023;465.13;Bank C;Fatura Odemesi;American Express
+536;492.98;12.02.2023;324.97;Bank C;Transfer;Mastercard
+537;114.06;17.06.2023;357.96;Bank B;Fatura Odemesi;American Express
+538;141.28;9.09.2023;57.96;Bank C;Fatura Odemesi;Mastercard
+539;228.09;19.10.2023;114.22;Bank C;Fatura Odemesi;Mastercard
+540;443.81;9.07.2023;225.01;Bank C;Transfer;American Express
+541;465.11;9.10.2023;349.72;Bank A;Fatura Odemesi;Visa
+542;49.9;20.02.2023;421.38;Bank B;Fatura Odemesi;Mastercard
+543;282.5;19.01.2023;249.64;Bank A;Fatura Odemesi;American Express
+544;83.68;23.02.2023;339.64;Bank A;Fatura Odemesi;American Express
+545;181.13;23.06.2023;178.13;Bank A;Transfer;Visa
+546;121.19;29.09.2023;129.91;Bank A;Alisveris;Visa
+547;494.51;26.07.2023;118.59;Bank B;Fatura Odemesi;American Express
+548;461.39;16.08.2023;265.79;Bank A;Alisveris;American Express
+549;196.48;2.10.2023;402.04;Bank C;Alisveris;Mastercard
+550;138.55;16.05.2023;29.19;Bank C;Transfer;Mastercard
+551;125.15;2.03.2023;290.28;Bank B;Fatura Odemesi;Mastercard
+552;490.41;22.05.2023;340.81;Bank B;Fatura Odemesi;Visa
+553;478.98;17.10.2023;279.4;Bank C;Fatura Odemesi;Mastercard
+554;33.96;20.11.2023;322.14;Bank B;Transfer;Visa
+555;58.96;16.10.2023;282.46;Bank C;Transfer;Mastercard
+556;132.78;20.06.2023;326.98;Bank C;Fatura Odemesi;Visa
+557;326.21;12.09.2023;285.3;Bank B;Fatura Odemesi;American Express
+558;21;24.09.2023;441.99;Bank C;Alisveris;Visa
+559;250.9;27.09.2023;200.41;Bank B;Fatura Odemesi;Mastercard
+560;88.42;27.05.2023;278.71;Bank B;Transfer;Visa
+561;440.68;27.09.2023;499.42;Bank C;Transfer;Mastercard
+562;301.68;14.07.2023;45.47;Bank A;Alisveris;Mastercard
+563;375.09;18.03.2023;219.78;Bank A;Transfer;Mastercard
+564;124.55;13.08.2023;223.47;Bank C;Alisveris;Mastercard
+565;87.59;16.01.2023;105.67;Bank A;Transfer;Visa
+566;455.19;9.04.2023;493.68;Bank C;Alisveris;Mastercard
+567;375.88;12.07.2023;261.1;Bank A;Alisveris;American Express
+568;319;6.03.2023;398.55;Bank A;Fatura Odemesi;Mastercard
+569;429.29;15.01.2023;24.18;Bank A;Alisveris;Mastercard
+570;387.97;14.06.2023;372.99;Bank C;Alisveris;American Express
+571;474.73;23.04.2023;490.63;Bank B;Transfer;Visa
+572;102.47;19.04.2023;442.56;Bank C;Alisveris;Visa
+573;352.93;5.06.2023;31.73;Bank C;Alisveris;American Express
+574;415.48;11.02.2023;52.25;Bank B;Transfer;Mastercard
+575;234.92;15.01.2023;446.78;Bank C;Transfer;Mastercard
+576;91.84;30.05.2023;61.14;Bank A;Alisveris;American Express
+577;481.79;7.04.2023;440.78;Bank B;Transfer;Visa
+578;43.19;20.10.2023;226.72;Bank C;Fatura Odemesi;Visa
+579;343.87;11.04.2023;491.89;Bank C;Alisveris;Visa
+580;203.61;17.02.2023;98.45;Bank A;Fatura Odemesi;American Express
+581;130.68;15.08.2023;368.96;Bank A;Alisveris;American Express
+582;80.87;5.12.2023;369.51;Bank A;Alisveris;American Express
+583;286.25;23.09.2023;264.9;Bank C;Fatura Odemesi;Visa
+584;123.62;15.07.2023;450.05;Bank A;Transfer;Mastercard
+585;196.57;26.09.2023;192.35;Bank B;Transfer;American Express
+586;221.64;30.06.2023;208.14;Bank C;Transfer;Visa
+587;137.25;8.12.2023;285.97;Bank B;Alisveris;American Express
+588;248.97;15.03.2023;215.41;Bank C;Alisveris;American Express
+589;417.33;2.03.2023;324.9;Bank A;Alisveris;American Express
+590;192.19;3.06.2023;119.4;Bank C;Fatura Odemesi;Visa
+591;372.39;30.08.2023;396.6;Bank C;Alisveris;Visa
+592;214.83;24.07.2023;116.97;Bank B;Alisveris;American Express
+593;453.97;9.12.2023;269.85;Bank C;Transfer;Visa
+594;49.29;30.06.2023;333.56;Bank C;Fatura Odemesi;American Express
+595;303.1;11.02.2023;154.95;Bank A;Alisveris;American Express
+596;287.52;3.10.2023;281.75;Bank A;Transfer;Mastercard
+597;499.72;7.03.2023;143.79;Bank C;Alisveris;American Express
+598;261.55;5.03.2023;232.49;Bank C;Transfer;Mastercard
+599;277.58;28.01.2023;158.43;Bank C;Fatura Odemesi;Mastercard
+600;117.97;25.01.2023;485.62;Bank C;Transfer;American Express
+601;229.78;3.08.2023;56.46;Bank A;Alisveris;American Express
+602;467.12;24.06.2023;454.89;Bank C;Fatura Odemesi;Visa
+603;441.26;23.01.2023;292.09;Bank A;Transfer;Mastercard
+604;293.44;19.09.2023;201.42;Bank A;Transfer;Mastercard
+605;215.51;10.02.2023;423.76;Bank A;Transfer;Mastercard
+606;210.92;26.05.2023;280.74;Bank C;Alisveris;Visa
+607;289.46;2.05.2023;479.75;Bank B;Transfer;American Express
+608;80.1;4.02.2023;442.37;Bank B;Transfer;American Express
+609;372.24;8.03.2023;393.13;Bank A;Transfer;American Express
+610;69.31;20.02.2023;146.85;Bank A;Alisveris;American Express
+611;25.45;7.12.2023;267.45;Bank B;Fatura Odemesi;Visa
+612;384.47;24.11.2023;116.28;Bank C;Alisveris;Visa
+613;300.37;10.03.2023;176.73;Bank B;Alisveris;American Express
+614;34.55;17.08.2023;428.6;Bank B;Transfer;American Express
+615;87.31;13.05.2023;21.93;Bank B;Alisveris;Mastercard
+616;408.6;13.07.2023;283.24;Bank B;Transfer;American Express
+617;176.22;17.10.2023;305.46;Bank B;Alisveris;Visa
+618;466.44;25.03.2023;36.04;Bank B;Alisveris;Mastercard
+619;404.87;28.03.2023;337.77;Bank B;Fatura Odemesi;American Express
+620;448.12;8.12.2023;290.57;Bank C;Fatura Odemesi;Visa
+621;435.85;3.08.2023;238.55;Bank C;Fatura Odemesi;American Express
+622;245.67;30.09.2023;142.54;Bank A;Alisveris;Mastercard
+623;101.48;1.02.2023;260.17;Bank B;Fatura Odemesi;Mastercard
+624;434.79;30.09.2023;479.38;Bank C;Fatura Odemesi;Mastercard
+625;338.66;6.08.2023;28.25;Bank A;Fatura Odemesi;American Express
+626;47.75;31.03.2023;305.24;Bank A;Transfer;Mastercard
+627;111.08;3.06.2023;422.49;Bank B;Alisveris;American Express
+628;499.25;23.04.2023;233.55;Bank C;Alisveris;Visa
+629;451.05;28.05.2023;260.41;Bank B;Fatura Odemesi;Visa
+630;144.79;23.11.2023;459.06;Bank A;Alisveris;Visa
+631;212.17;8.02.2023;438.82;Bank C;Alisveris;Mastercard
+632;320.62;27.07.2023;12.97;Bank B;Fatura Odemesi;Visa
+633;160.33;20.04.2023;329.23;Bank B;Fatura Odemesi;Visa
+634;297.63;23.09.2023;224.64;Bank A;Fatura Odemesi;American Express
+635;395.13;3.01.2023;350.43;Bank A;Fatura Odemesi;Visa
+636;442.54;24.01.2023;311.59;Bank A;Alisveris;Visa
+637;16.16;10.05.2023;475.19;Bank A;Transfer;Mastercard
+638;331;11.06.2023;238.83;Bank C;Alisveris;Mastercard
+639;236.7;8.08.2023;121.05;Bank A;Alisveris;Visa
+640;236.66;13.08.2023;426.24;Bank A;Alisveris;American Express
+641;341.92;16.06.2023;250.04;Bank B;Transfer;American Express
+642;288.36;6.02.2023;208.79;Bank C;Transfer;Visa
+643;237.45;26.01.2023;225.45;Bank B;Transfer;Mastercard
+644;57;7.06.2023;384.77;Bank A;Fatura Odemesi;Mastercard
+645;102.3;3.04.2023;344.2;Bank C;Transfer;Visa
+646;480.41;20.10.2023;48.81;Bank B;Alisveris;American Express
+647;135.33;14.03.2023;461.5;Bank C;Alisveris;American Express
+648;146.48;29.09.2023;381.18;Bank B;Alisveris;American Express
+649;395.64;9.01.2023;240.28;Bank B;Alisveris;American Express
+650;321.31;20.04.2023;176.08;Bank B;Fatura Odemesi;Visa
+651;329.61;25.03.2023;26.91;Bank B;Transfer;Visa
+652;476.95;25.09.2023;288.29;Bank C;Fatura Odemesi;Mastercard
+653;192.84;11.07.2023;319.54;Bank C;Fatura Odemesi;Visa
+654;440.94;28.07.2023;155.9;Bank C;Transfer;Mastercard
+655;240.92;2.06.2023;354.2;Bank B;Alisveris;Mastercard
+656;130.16;15.06.2023;125.34;Bank A;Alisveris;American Express
+657;382.33;28.07.2023;65.4;Bank B;Transfer;Visa
+658;23.37;24.10.2023;229.35;Bank A;Fatura Odemesi;Visa
+659;475.4;21.02.2023;402.75;Bank C;Transfer;Mastercard
+660;39.67;17.07.2023;390.9;Bank C;Alisveris;Mastercard
+661;176.45;11.06.2023;456.85;Bank B;Fatura Odemesi;Visa
+662;485.49;19.08.2023;64.52;Bank B;Alisveris;American Express
+663;102.6;13.12.2023;243.05;Bank C;Alisveris;American Express
+664;14.83;5.12.2023;173.83;Bank B;Alisveris;Mastercard
+665;336.53;15.10.2023;143.82;Bank A;Alisveris;American Express
+666;293.26;23.01.2023;227.27;Bank C;Alisveris;American Express
+667;335.09;15.04.2023;389.8;Bank B;Transfer;Mastercard
+668;438.18;13.10.2023;160.65;Bank B;Alisveris;Visa
+669;362.94;15.11.2023;405.96;Bank C;Alisveris;Mastercard
+670;335;20.05.2023;172.98;Bank C;Alisveris;Visa
+671;181.08;4.09.2023;11.05;Bank B;Transfer;Visa
+672;320.62;25.02.2023;273.17;Bank A;Transfer;American Express
+673;414.22;11.10.2023;337.86;Bank B;Fatura Odemesi;Mastercard
+674;103.7;8.12.2023;11.97;Bank A;Alisveris;Mastercard
+675;430.86;30.04.2023;94.47;Bank A;Transfer;Visa
+676;157.94;26.07.2023;185.77;Bank C;Fatura Odemesi;Mastercard
+677;203.67;9.04.2023;331.29;Bank B;Fatura Odemesi;American Express
+678;380.99;28.10.2023;201.78;Bank C;Alisveris;American Express
+679;122.21;18.09.2023;182.61;Bank C;Alisveris;Visa
+680;65.5;27.06.2023;118.32;Bank A;Alisveris;Mastercard
+681;175.62;15.11.2023;437.65;Bank A;Alisveris;American Express
+682;64.01;22.07.2023;316.02;Bank A;Alisveris;American Express
+683;269.01;18.07.2023;416.82;Bank A;Fatura Odemesi;American Express
+684;336.39;28.01.2023;103.43;Bank A;Alisveris;Visa
+685;44.79;10.06.2023;392.2;Bank C;Transfer;Mastercard
+686;252.72;4.11.2023;87.27;Bank C;Transfer;American Express
+687;184.6;13.04.2023;315.62;Bank C;Alisveris;Visa
+688;481.74;27.09.2023;105.07;Bank A;Fatura Odemesi;American Express
+689;439.35;17.05.2023;156.72;Bank B;Fatura Odemesi;Mastercard
+690;154.59;12.08.2023;197.99;Bank A;Alisveris;Visa
+691;11.49;5.05.2023;452.68;Bank B;Transfer;American Express
+692;139.32;3.09.2023;140.99;Bank C;Alisveris;Visa
+693;224.82;2.09.2023;410.85;Bank B;Fatura Odemesi;American Express
+694;299;11.06.2023;253.01;Bank B;Alisveris;Visa
+695;262.22;29.06.2023;346.59;Bank B;Fatura Odemesi;Mastercard
+696;363.47;9.01.2023;231.13;Bank C;Transfer;Mastercard
+697;193.41;3.05.2023;256.94;Bank A;Fatura Odemesi;Mastercard
+698;320.34;8.04.2023;227.14;Bank C;Alisveris;Mastercard
+699;172.39;28.02.2023;183.39;Bank A;Transfer;Visa
+700;187.68;11.09.2023;277.82;Bank C;Transfer;American Express
+701;163.68;20.05.2023;238.34;Bank A;Transfer;Visa
+702;91.7;6.02.2023;302.61;Bank A;Transfer;Visa
+703;81.11;1.12.2023;469.67;Bank B;Fatura Odemesi;Mastercard
+704;292.91;16.02.2023;450.95;Bank C;Transfer;Visa
+705;354.77;15.05.2023;481.84;Bank B;Alisveris;Mastercard
+706;41.12;20.08.2023;382.79;Bank B;Transfer;Visa
+707;182.89;2.04.2023;211.21;Bank B;Transfer;American Express
+708;26.58;26.09.2023;240.25;Bank C;Alisveris;Visa
+709;327.72;22.06.2023;153.67;Bank B;Fatura Odemesi;American Express
+710;188.33;16.04.2023;490.99;Bank B;Fatura Odemesi;Visa
+711;133.94;6.06.2023;204.33;Bank B;Transfer;Visa
+712;439.36;17.10.2023;409.68;Bank B;Alisveris;Mastercard
+713;70.09;9.03.2023;259.91;Bank B;Alisveris;Mastercard
+714;16.81;8.12.2023;382.16;Bank B;Alisveris;Mastercard
+715;333.22;20.01.2023;243.6;Bank B;Alisveris;Mastercard
+716;468.06;14.01.2023;393.07;Bank A;Transfer;American Express
+717;102.69;26.09.2023;119.38;Bank C;Transfer;Visa
+718;169.03;13.12.2023;141.33;Bank C;Fatura Odemesi;American Express
+719;324.05;10.12.2023;150.27;Bank B;Alisveris;Mastercard
+720;256.86;22.03.2023;207.69;Bank C;Fatura Odemesi;Visa
+721;349.43;2.01.2023;310.37;Bank B;Fatura Odemesi;Mastercard
+722;234.81;20.05.2023;144.51;Bank C;Fatura Odemesi;Mastercard
+723;203.9;20.07.2023;452.21;Bank C;Transfer;Mastercard
+724;412.44;15.06.2023;165.15;Bank B;Alisveris;American Express
+725;375.12;10.10.2023;484.6;Bank B;Transfer;American Express
+726;476.43;31.08.2023;414.37;Bank C;Fatura Odemesi;Visa
+727;394.23;24.04.2023;261.82;Bank A;Fatura Odemesi;Mastercard
+728;245.77;31.01.2023;384.39;Bank B;Fatura Odemesi;American Express
+729;491.05;5.03.2023;394.21;Bank C;Alisveris;Visa
+730;382.26;15.02.2023;166.13;Bank A;Transfer;Mastercard
+731;368.76;24.10.2023;390.74;Bank C;Fatura Odemesi;Visa
+732;196.2;12.01.2023;85.9;Bank A;Alisveris;Visa
+733;104.12;14.12.2023;101.69;Bank C;Fatura Odemesi;Visa
+734;120.65;3.05.2023;445.52;Bank B;Fatura Odemesi;Visa
+735;154.32;17.02.2023;404.1;Bank C;Transfer;American Express
+736;191.64;13.12.2023;147.19;Bank A;Transfer;American Express
+737;80.14;15.09.2023;163.43;Bank C;Fatura Odemesi;American Express
+738;394.21;28.09.2023;456.79;Bank A;Transfer;American Express
+739;403.53;4.10.2023;10.43;Bank B;Transfer;American Express
+740;136;1.05.2023;11.74;Bank C;Fatura Odemesi;American Express
+741;12.93;21.04.2023;123.83;Bank B;Alisveris;American Express
+742;431.89;13.04.2023;235.85;Bank A;Fatura Odemesi;Mastercard
+743;351.65;12.02.2023;272.33;Bank C;Transfer;Visa
+744;237.26;31.03.2023;150.34;Bank C;Fatura Odemesi;Mastercard
+745;63.49;5.06.2023;404.53;Bank B;Transfer;American Express
+746;83.59;17.09.2023;29.34;Bank C;Transfer;Visa
+747;202.69;5.01.2023;261.18;Bank C;Transfer;Visa
+748;293.75;25.02.2023;175.85;Bank C;Transfer;Visa
+749;134.99;28.02.2023;57.26;Bank A;Alisveris;American Express
+750;442.19;20.06.2023;322.4;Bank C;Transfer;American Express
+751;113.76;10.01.2023;246.98;Bank B;Alisveris;American Express
+752;175.38;5.04.2023;447.27;Bank C;Alisveris;American Express
+753;458.38;3.04.2023;44.59;Bank B;Alisveris;American Express
+754;56.99;25.11.2023;181.41;Bank B;Fatura Odemesi;Mastercard
+755;436.71;21.06.2023;467.9;Bank B;Fatura Odemesi;American Express
+756;194.95;22.02.2023;120.44;Bank B;Fatura Odemesi;American Express
+757;192.15;10.04.2023;340.69;Bank B;Transfer;Visa
+758;432.85;22.07.2023;250.35;Bank A;Fatura Odemesi;American Express
+759;184.98;29.08.2023;498.68;Bank B;Fatura Odemesi;Visa
+760;170.68;6.02.2023;300.85;Bank C;Fatura Odemesi;Visa
+761;17.05;25.05.2023;57.02;Bank B;Fatura Odemesi;Visa
+762;98.06;12.10.2023;239.1;Bank A;Alisveris;American Express
+763;315.23;27.06.2023;370.4;Bank B;Fatura Odemesi;Visa
+764;132.89;12.06.2023;190.6;Bank A;Fatura Odemesi;Mastercard
+765;472.8;22.05.2023;347.71;Bank C;Transfer;Mastercard
+766;132.6;9.01.2023;77.01;Bank A;Fatura Odemesi;Visa
+767;260.38;18.06.2023;10.55;Bank A;Alisveris;Mastercard
+768;277.99;4.01.2023;77.64;Bank A;Alisveris;Visa
+769;99.94;15.08.2023;49.85;Bank B;Fatura Odemesi;American Express
+770;385.97;3.03.2023;244.38;Bank A;Transfer;American Express
+771;487.56;12.11.2023;142.77;Bank C;Alisveris;American Express
+772;339.33;18.01.2023;335.6;Bank B;Alisveris;Mastercard
+773;214.18;21.06.2023;399.32;Bank C;Alisveris;Mastercard
+774;353.53;15.02.2023;69.82;Bank B;Alisveris;American Express
+775;256.76;1.04.2023;448.32;Bank B;Transfer;Visa
+776;393.53;22.04.2023;316.67;Bank A;Transfer;American Express
+777;224.84;4.05.2023;208.74;Bank A;Fatura Odemesi;Visa
+778;397.17;10.10.2023;304.83;Bank C;Transfer;Visa
+779;85.89;2.03.2023;194.95;Bank B;Fatura Odemesi;American Express
+780;14.99;9.11.2023;294.46;Bank A;Fatura Odemesi;American Express
+781;454.59;2.07.2023;248.87;Bank B;Fatura Odemesi;American Express
+782;175.1;17.03.2023;408.56;Bank C;Fatura Odemesi;Mastercard
+783;211.24;1.01.2023;151.21;Bank A;Fatura Odemesi;Visa
+784;290.8;13.04.2023;418.78;Bank A;Transfer;Visa
+785;215.36;4.06.2023;230.43;Bank C;Fatura Odemesi;Mastercard
+786;124.12;26.05.2023;442;Bank C;Alisveris;American Express
+787;84.4;13.08.2023;357.63;Bank B;Alisveris;Visa
+788;401.92;6.07.2023;427.48;Bank A;Transfer;Visa
+789;160.27;15.02.2023;203.69;Bank A;Fatura Odemesi;American Express
+790;349.28;25.07.2023;412.42;Bank B;Fatura Odemesi;Visa
+791;425.37;29.08.2023;438.68;Bank A;Alisveris;Visa
+792;97.98;28.10.2023;208.68;Bank C;Transfer;Mastercard
+793;115.58;1.12.2023;318.43;Bank B;Transfer;American Express
+794;325.37;7.12.2023;428.46;Bank B;Transfer;Mastercard
+795;12.83;20.02.2023;494.4;Bank C;Fatura Odemesi;Visa
+796;283.41;29.09.2023;100.4;Bank A;Alisveris;American Express
+797;139.37;26.03.2023;222.27;Bank B;Alisveris;American Express
+798;96.44;24.03.2023;473.58;Bank B;Transfer;American Express
+799;333.39;12.07.2023;395.57;Bank C;Alisveris;American Express
+800;115.18;5.06.2023;115.18;Bank C;Transfer;Mastercard
+801;27.12;3.11.2023;449.27;Bank C;Transfer;American Express
+802;217.88;20.04.2023;383.79;Bank A;Fatura Odemesi;Mastercard
+803;408.69;11.03.2023;481.7;Bank B;Alisveris;Visa
+804;94.64;7.12.2023;442.29;Bank C;Transfer;Visa
+805;164.96;7.05.2023;150.99;Bank A;Fatura Odemesi;Visa
+806;39.71;27.03.2023;315.97;Bank C;Transfer;American Express
+807;55.25;9.09.2023;33.67;Bank C;Fatura Odemesi;Visa
+808;257.28;23.07.2023;59.57;Bank A;Transfer;Mastercard
+809;384.49;4.01.2023;21.69;Bank B;Alisveris;American Express
+810;180.09;29.10.2023;350.55;Bank B;Alisveris;Visa
+811;446.39;24.09.2023;318.79;Bank A;Alisveris;American Express
+812;205.49;10.04.2023;401.77;Bank A;Fatura Odemesi;American Express
+813;40.96;24.03.2023;496.69;Bank A;Alisveris;Mastercard
+814;93.68;17.05.2023;210.03;Bank B;Alisveris;American Express
+815;383.15;21.08.2023;37.99;Bank C;Alisveris;Mastercard
+816;423.51;29.04.2023;239.1;Bank A;Fatura Odemesi;American Express
+817;41.93;20.03.2023;108.71;Bank B;Alisveris;Mastercard
+818;294.11;8.02.2023;382.7;Bank C;Fatura Odemesi;American Express
+819;176.05;9.04.2023;70.52;Bank A;Alisveris;American Express
+820;200.39;23.02.2023;367.99;Bank C;Fatura Odemesi;American Express
+821;22.02;2.06.2023;91.09;Bank B;Fatura Odemesi;Visa
+822;271.22;1.07.2023;493.86;Bank B;Fatura Odemesi;Visa
+823;367.65;11.01.2023;367.8;Bank A;Transfer;Mastercard
+824;365.4;12.03.2023;396.57;Bank B;Alisveris;American Express
+825;344.88;22.09.2023;306.05;Bank A;Fatura Odemesi;Visa
+826;468.57;30.10.2023;434.86;Bank C;Fatura Odemesi;Mastercard
+827;280.37;28.04.2023;364.14;Bank A;Transfer;Mastercard
+828;356.45;17.03.2023;383.02;Bank C;Transfer;Visa
+829;347.96;10.06.2023;40.07;Bank B;Transfer;American Express
+830;147.16;13.11.2023;255.21;Bank B;Alisveris;American Express
+831;150.2;7.04.2023;334.99;Bank B;Fatura Odemesi;Visa
+832;378.3;9.04.2023;266.77;Bank B;Alisveris;Mastercard
+833;416.93;29.08.2023;196.42;Bank C;Alisveris;Visa
+834;189.72;10.06.2023;244.08;Bank C;Transfer;American Express
+835;191.92;29.09.2023;260.25;Bank B;Alisveris;American Express
+836;340.65;24.07.2023;15.48;Bank A;Fatura Odemesi;American Express
+837;409.75;3.12.2023;371.68;Bank C;Alisveris;Mastercard
+838;482.27;1.10.2023;130.39;Bank A;Transfer;American Express
+839;368.81;9.10.2023;51.48;Bank B;Fatura Odemesi;American Express
+840;465.52;18.06.2023;269.9;Bank C;Alisveris;Mastercard
+841;494.81;11.10.2023;318.31;Bank C;Fatura Odemesi;American Express
+842;31.34;25.01.2023;424.1;Bank A;Alisveris;Mastercard
+843;426.81;16.09.2023;307.69;Bank A;Fatura Odemesi;American Express
+844;26.72;5.04.2023;427.78;Bank B;Fatura Odemesi;Mastercard
+845;80.4;13.05.2023;493.06;Bank A;Fatura Odemesi;Mastercard
+846;11.45;24.11.2023;277.04;Bank C;Transfer;Visa
+847;102.15;2.04.2023;31.61;Bank A;Fatura Odemesi;Mastercard
+848;308.36;14.11.2023;411.22;Bank B;Fatura Odemesi;Visa
+849;82.38;30.07.2023;405.83;Bank B;Transfer;American Express
+850;435.27;22.01.2023;462.15;Bank C;Fatura Odemesi;Visa
+851;62.42;3.03.2023;348.66;Bank A;Alisveris;Visa
+852;327.32;5.05.2023;415.03;Bank B;Transfer;Visa
+853;480.63;4.06.2023;211.94;Bank A;Alisveris;Mastercard
+854;376.79;9.01.2023;361.23;Bank A;Fatura Odemesi;Visa
+855;349.33;11.11.2023;411.66;Bank A;Alisveris;Visa
+856;34.71;3.03.2023;324.8;Bank B;Alisveris;Mastercard
+857;268.78;8.04.2023;10.85;Bank A;Transfer;American Express
+858;439.56;8.10.2023;167.77;Bank B;Transfer;Mastercard
+859;137.48;10.12.2023;470.17;Bank C;Alisveris;Visa
+860;427.34;1.03.2023;330.96;Bank B;Fatura Odemesi;Mastercard
+861;383.75;11.01.2023;165.65;Bank B;Transfer;Mastercard
+862;371.2;16.10.2023;389.58;Bank A;Transfer;Mastercard
+863;480.53;1.09.2023;288.74;Bank B;Transfer;American Express
+864;241.42;6.08.2023;345.85;Bank C;Alisveris;Visa
+865;150.39;4.02.2023;191.04;Bank B;Transfer;Visa
+866;145.39;11.11.2023;19.31;Bank B;Fatura Odemesi;Visa
+867;110.37;10.09.2023;47.3;Bank B;Transfer;American Express
+868;360.69;14.10.2023;230.65;Bank C;Transfer;American Express
+869;448.37;16.01.2023;114.63;Bank C;Fatura Odemesi;Mastercard
+870;332.47;15.02.2023;436.16;Bank C;Fatura Odemesi;Mastercard
+871;375.57;10.12.2023;181.86;Bank B;Fatura Odemesi;American Express
+872;445.7;7.08.2023;173.43;Bank C;Alisveris;Visa
+873;352.72;3.05.2023;462.37;Bank A;Transfer;American Express
+874;462.28;12.07.2023;452.51;Bank A;Fatura Odemesi;Visa
+875;113.91;16.07.2023;160.45;Bank B;Transfer;Visa
+876;316.26;21.04.2023;43.11;Bank B;Alisveris;Mastercard
+877;130.82;16.06.2023;21.91;Bank C;Fatura Odemesi;Visa
+878;133.09;30.05.2023;298.55;Bank A;Alisveris;American Express
+879;53.04;4.12.2023;432.15;Bank A;Alisveris;American Express
+880;171.66;25.08.2023;322.56;Bank C;Fatura Odemesi;American Express
+881;102.38;10.11.2023;11.31;Bank A;Fatura Odemesi;Visa
+882;402.59;21.06.2023;143.89;Bank B;Alisveris;American Express
+883;56.87;8.09.2023;310.31;Bank C;Alisveris;Visa
+884;239.23;3.04.2023;294.57;Bank B;Alisveris;American Express
+885;171.73;28.11.2023;289.59;Bank C;Transfer;American Express
+886;208.21;29.07.2023;390.15;Bank B;Fatura Odemesi;Mastercard
+887;293.7;29.04.2023;424.96;Bank C;Fatura Odemesi;American Express
+888;108.51;4.01.2023;416.32;Bank C;Alisveris;Visa
+889;465.93;26.08.2023;160.81;Bank B;Transfer;American Express
+890;388.28;23.03.2023;13.56;Bank C;Transfer;Mastercard
+891;156.25;20.06.2023;317.99;Bank C;Alisveris;Mastercard
+892;265;23.09.2023;321.13;Bank B;Alisveris;American Express
+893;134.32;23.04.2023;448.31;Bank B;Alisveris;American Express
+894;36.81;28.11.2023;127.79;Bank C;Alisveris;Mastercard
+895;348.46;9.11.2023;201.98;Bank C;Transfer;Visa
+896;269.81;22.04.2023;325.24;Bank B;Transfer;Visa
+897;471.36;6.08.2023;335.69;Bank A;Alisveris;Mastercard
+898;140.9;3.01.2023;170.55;Bank C;Fatura Odemesi;Mastercard
+899;360.97;31.07.2023;267.21;Bank B;Fatura Odemesi;Visa
+900;423.36;15.09.2023;394.6;Bank B;Fatura Odemesi;Mastercard
+901;359.11;14.09.2023;224.48;Bank A;Alisveris;Mastercard
+902;191.41;17.02.2023;485.22;Bank B;Alisveris;Visa
+903;385.82;1.10.2023;143.17;Bank C;Fatura Odemesi;Mastercard
+904;332.21;15.10.2023;439.8;Bank A;Fatura Odemesi;Mastercard
+905;134.68;8.01.2023;136.03;Bank A;Fatura Odemesi;American Express
+906;473.74;6.08.2023;53.17;Bank A;Fatura Odemesi;Visa
+907;478.63;26.10.2023;199.91;Bank A;Alisveris;Visa
+908;57.71;9.06.2023;315.11;Bank B;Alisveris;Visa
+909;101.35;7.06.2023;471.95;Bank A;Fatura Odemesi;Mastercard
+910;119.47;16.11.2023;71.28;Bank A;Fatura Odemesi;American Express
+911;410.44;9.08.2023;254.59;Bank A;Alisveris;American Express
+912;389.03;24.10.2023;353.24;Bank B;Fatura Odemesi;Visa
+913;408.98;25.07.2023;440.42;Bank A;Transfer;American Express
+914;17.14;5.05.2023;169.79;Bank A;Transfer;Mastercard
+915;184.13;12.04.2023;286.44;Bank A;Alisveris;Visa
+916;380.42;18.07.2023;258.41;Bank C;Fatura Odemesi;Mastercard
+917;334.25;16.03.2023;397.33;Bank C;Fatura Odemesi;American Express
+918;389.73;30.08.2023;81.48;Bank A;Fatura Odemesi;American Express
+919;151.28;29.06.2023;115.13;Bank B;Fatura Odemesi;Visa
+920;281.7;16.08.2023;392.64;Bank A;Transfer;American Express
+921;401.79;2.01.2023;250.33;Bank C;Fatura Odemesi;Visa
+922;243.34;12.03.2023;174.01;Bank B;Fatura Odemesi;Visa
+923;35.82;6.07.2023;314.39;Bank B;Alisveris;Visa
+924;54.41;22.10.2023;455.24;Bank C;Alisveris;American Express
+925;248.1;12.04.2023;206.8;Bank C;Transfer;Visa
+926;44.66;13.03.2023;34.27;Bank B;Transfer;Visa
+927;311.76;15.08.2023;429.84;Bank C;Alisveris;Visa
+928;31.51;22.08.2023;13.84;Bank C;Fatura Odemesi;American Express
+929;392.55;25.08.2023;88.59;Bank C;Fatura Odemesi;American Express
+930;350.92;16.09.2023;361.58;Bank C;Alisveris;Mastercard
+931;291.42;3.06.2023;54.87;Bank B;Alisveris;Mastercard
+932;240.81;11.02.2023;97.24;Bank A;Fatura Odemesi;Visa
+933;88.24;19.01.2023;173.3;Bank C;Alisveris;Visa
+934;19.97;18.04.2023;372.19;Bank B;Alisveris;Mastercard
+935;187.51;10.08.2023;180.58;Bank B;Alisveris;American Express
+936;361.66;19.05.2023;461.93;Bank B;Fatura Odemesi;American Express
+937;429.79;11.09.2023;96.58;Bank C;Fatura Odemesi;Visa
+938;443.45;13.02.2023;432.08;Bank A;Transfer;American Express
+939;50.8;28.07.2023;118.07;Bank B;Fatura Odemesi;Visa
+940;284.36;2.11.2023;358.35;Bank C;Alisveris;Visa
+941;258.69;3.08.2023;343.79;Bank B;Transfer;American Express
+942;207.28;18.06.2023;60.82;Bank A;Alisveris;Visa
+943;431.92;16.10.2023;134.04;Bank B;Transfer;Mastercard
+944;126.25;23.07.2023;226.03;Bank A;Transfer;Visa
+945;122.56;27.11.2023;487.88;Bank A;Fatura Odemesi;American Express
+946;462.01;27.05.2023;72.61;Bank A;Alisveris;Mastercard
+947;67.83;9.03.2023;120.51;Bank C;Alisveris;American Express
+948;263.73;30.03.2023;67.4;Bank A;Alisveris;American Express
+949;308.61;22.05.2023;455.82;Bank B;Alisveris;Mastercard
+950;97.97;20.03.2023;263.54;Bank A;Fatura Odemesi;American Express
+951;381.92;27.06.2023;288.34;Bank C;Alisveris;Visa
+952;285.59;8.06.2023;381.91;Bank C;Alisveris;American Express
+953;265.58;5.02.2023;419.9;Bank B;Transfer;American Express
+954;358.4;29.01.2023;179.35;Bank C;Alisveris;Mastercard
+955;457.6;21.11.2023;376.21;Bank B;Alisveris;Visa
+956;210.35;10.11.2023;160.91;Bank A;Transfer;Mastercard
+957;317.41;14.05.2023;226.29;Bank C;Fatura Odemesi;Visa
+958;203.55;30.01.2023;364.69;Bank C;Alisveris;American Express
+959;448.92;27.10.2023;316.07;Bank A;Transfer;Visa
+960;377.15;3.02.2023;481.16;Bank A;Fatura Odemesi;American Express
+961;119.56;4.10.2023;45.33;Bank C;Fatura Odemesi;Visa
+962;27.74;11.07.2023;280.92;Bank B;Transfer;Visa
+963;78.2;23.06.2023;68.05;Bank A;Transfer;Mastercard
+964;168.76;9.02.2023;124.07;Bank A;Fatura Odemesi;Mastercard
+965;191.15;17.04.2023;442.46;Bank C;Transfer;Mastercard
+966;231.57;4.02.2023;430.82;Bank A;Fatura Odemesi;American Express
+967;454.3;9.11.2023;478.09;Bank A;Transfer;Mastercard
+968;117.65;23.10.2023;76.35;Bank A;Alisveris;Visa
+969;384.74;7.01.2023;499.57;Bank A;Transfer;Mastercard
+970;112.66;4.04.2023;279.51;Bank C;Alisveris;Mastercard
+971;278.68;25.01.2023;464.01;Bank B;Transfer;Visa
+972;223.02;8.08.2023;418.77;Bank B;Transfer;Mastercard
+973;122.52;12.11.2023;138.93;Bank B;Fatura Odemesi;Visa
+974;209.39;3.03.2023;183.67;Bank A;Fatura Odemesi;American Express
+975;135.02;7.07.2023;188.04;Bank C;Fatura Odemesi;American Express
+976;33.94;20.04.2023;118.59;Bank C;Transfer;Visa
+977;311.49;8.12.2023;339.13;Bank A;Transfer;Visa
+978;457.16;22.07.2023;229.68;Bank A;Alisveris;Visa
+979;371.2;16.05.2023;236.67;Bank C;Alisveris;Mastercard
+980;195.15;19.09.2023;50.79;Bank B;Alisveris;Visa
+981;286.63;6.05.2023;274.27;Bank A;Transfer;American Express
+982;69.6;8.09.2023;95.5;Bank A;Fatura Odemesi;Visa
+983;219.02;28.01.2023;467.65;Bank C;Transfer;Visa
+984;258.38;18.07.2023;486.82;Bank B;Alisveris;Visa
+985;347;29.01.2023;53.11;Bank B;Transfer;American Express
+986;69.86;17.01.2023;334.37;Bank C;Transfer;Mastercard
+987;111.66;21.03.2023;422;Bank A;Transfer;Mastercard
+988;269.67;25.02.2023;122.45;Bank B;Alisveris;Mastercard
+989;389.78;14.06.2023;285.3;Bank A;Transfer;Mastercard
+990;10.11;12.01.2023;41.23;Bank A;Alisveris;American Express
+991;61.48;22.04.2023;25.33;Bank B;Fatura Odemesi;Mastercard
+992;421.92;21.06.2023;306.77;Bank C;Fatura Odemesi;American Express
